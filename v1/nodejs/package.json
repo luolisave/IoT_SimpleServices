@@ -1,0 +1,11 @@
+{
+  "name": "iot_simple_services",
+  "version": "0.0.1",
+  "description": "Use nodeJs to make socket based IoT simple services. Will provide time etc. informations for IoT devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node-dev client.js"
+  },
+  "author": "Li Luo",
+  "license": "ISC"
+}
